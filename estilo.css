@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(img/forest-g2aaea1d57_640.jpg); 
+  background-attachment: fixed;
+}
+table tr th,
+table tr td{
+    border:3px solid salmon ;
+    align-content: center;
+    padding: 5px;
+    background-color: brown;
+    text-align: center;
+}
+table{
+    display: inline-block;
+    align-content: center;
+    height: 75px;
+    width: 95px;
+    margin-left: 375px;
+    margin-top: 175px;
+}
+.resaltar{
+    font-weight: bold
+}
+caption{
+    background-color: bisque;
+}
